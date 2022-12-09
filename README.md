@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Andersanjuan
 - 👀 I’m interested in Bioinformatics, computational genomics and biostatistics
 - 🌱 I’m currently learning scripting with python and Bash, R, SQL, Dosage Sensitivity Curation
-- 💞️ I’m looking to collaborate on Bioinformatics projects
+- 💞️ I’m looking to collaborate on Bioinformatic projects
 - 📫 How to reach me andersanjuan@gmail.com
 
 <!---
