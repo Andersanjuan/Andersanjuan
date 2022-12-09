@@ -1,8 +1,11 @@
 - 👋 Hi, I’m @Andersanjuan
+
 - 👀 I’m interested in Bioinformatics, computational genomics, and biostatistics
 <!-- - 🌱 I’m currently learning python, Bash, R, SQL, Dosage Sensitivity Curation -->
 - 💞️ I’m looking to collaborate on Bioinformatic projects
+
 - 📫 How to reach me: https://www.linkedin.com/in/ander-sanjuan/ • andersanjuan@gmail.com
+
 - 💼 View current projects and other information here: https://andersanjuan.github.io/
 
 <!---
