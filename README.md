@@ -6,7 +6,7 @@
 
 - 📫 How to reach me: https://www.linkedin.com/in/ander-sanjuan/ • andersanjuan@gmail.com
 
-- 💼 View current projects and other information here: https://andersanjuan.github.io/
+<!-- - 💼 View current projects and other information here: https://andersanjuan.github.io/ -->
 
 <!---
 Andersanjuan/Andersanjuan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
