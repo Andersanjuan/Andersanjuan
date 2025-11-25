@@ -1,6 +1,7 @@
 Hi, I’m @Andersanjuan
 
-I’m interested in Bioinformatics, computational genomics, and biostatistics
+I’m interested in Bioinformatics, computational genomics, and biostatistics.
+
 I’m currently learning biological systems modeling and Sequence Analysis
 I’m looking to collaborate on Bioinformatic projects
 
